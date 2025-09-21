@@ -29,7 +29,7 @@ const Portfolio = () => {
       category: 'backend',
       description: 'Scalable banking platform using microservices architecture with event sourcing and CQRS patterns.',
       image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop',
-      technologies: ['Spring Cloud', 'Axon Framework', 'Docker', 'Kafka', 'MongoDB'],
+      technologies: ['Spring Cloud', 'Eureuka', 'Docker', 'Kafka', 'MongoDB'],
       features: [
         'Customer management service',
         'Account service with transactions',
@@ -41,11 +41,11 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: 'Data Visualization Dashboard',
+      title: 'Odoo Custom Module – Simple Sales Report',
       category: 'frontend',
-      description: 'Interactive dashboard providing insights from credit applications and banking data.',
+      description: 'Developed a custom Odoo module to generate simplified sales reports. This module demonstrates integration with Odoo’s core framework a.',
       image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop',
-      technologies: ['React', 'TypeScript', 'RxJS', 'Material UI', 'Chart.js'],
+      technologies: ['Python (Odoo modules)', 'XML', 'PostgreSQL (Odoo database)'],
       features: [
         'Real-time analytics',
         'Real-time calculations',

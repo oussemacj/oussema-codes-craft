@@ -46,9 +46,8 @@ const Hero = () => {
               Full-Stack Developer & Tech Innovator
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Final-year Business Information Systems student at ESPRIT. 
-              Specializing in Spring Boot, Angular, React, and microservices architecture. 
-              Passionate about creating innovative banking and credit management solutions.
+              Bachelor’s Degree in Business Information Systems from ESPRIT, specializing in web development with modern technologies like Spring Boot, Angular, React, and microservices architecture.
+               Passionate about building intelligent web applications and AI-driven solutions that turn ideas into real impact.
             </p>
           </div>
 
